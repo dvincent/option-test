@@ -1,2 +1,0 @@
-This file represents a large file or a collection of them.  We don't want to check it out unless we 
-really are sure we want to.  
